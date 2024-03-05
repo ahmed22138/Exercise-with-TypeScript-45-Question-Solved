@@ -1,6 +1,6 @@
 // task 2
-// let personName = "HELLO ERIC, would you like to learn some python today?";
-// console.log(personName);
+ let personName = "HELLO ERIC, would you like to learn some python today?";
+ console.log(personName);
 
 
 // task 3
